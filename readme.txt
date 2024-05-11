@@ -1,5 +1,3 @@
-# webdriverio_cucumber_Project_ebay
-
 installation :
 1- npm init --y
 2- npm init wdio@latest ./
